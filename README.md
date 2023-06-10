@@ -1,4 +1,4 @@
-![image](https://github.com/JustAbid/JustAbid/assets/121967128/1eaac0e8-e728-4370-8077-8202aea88912)
+
 <h1 align="center">Hi 👋, I'm Abid Sameer</h1>
 <h3 align="center">Mastering Bits and Bytes, Engineering the Future at MJCET.</h3>
 
