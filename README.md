@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)](https://codegrills.in)
+[![MasterHead](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)]
 <h1 align="center">Hi 👋, I'm Abid Sameer</h1>
 <h3 align="center">Mastering Bits and Bytes, Engineering the Future at MJCET.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
