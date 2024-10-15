@@ -77,5 +77,6 @@
 </details>
 
 ---
+## Watch Snake eating my Contributions!
 <img src="https://raw.githubusercontent.com/JustAbid/JustAbid/output/snake.svg" alt="Snake animation" />
 
