@@ -1,27 +1,81 @@
-![MasterHead](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)
-<h1 align="center">Hi 👋, I'm Abid Sameer</h1>
-<h3 align="center">Mastering Bits and Bytes, Engineering the Future at MJCET.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h1 align="center">👾 Welcome to My Cyber Vault! 👾</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justabid&label=Profile%20views&color=e96479&style=flat" alt="justabid" /> </p>
+## 👾 About Me
+- 👤 Hi, I’m Abid Sameer!
+- 🎓 Pursuing a Bachelor's in IT from MJCET, India | Final Year
+- 🌐 Exploring Cybersecurity, Cloud Security, and Blockchain.
+- 🎮 Passionate about gaming and technology.
+- 🔍 Always eager to learn and find new solutions!
 
-- 🌱 I’m currently learning **DSA in JAVA**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo" />
+</div>
 
-- 💬 Ask me about **Games and Tech**
+---
 
-- 📫 How to reach me: **mdabid2104@gmail.com**
+## 🛡️ My Arsenal 🛡️
+<img align="right" height="125" src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/abid21._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abid21._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abidsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abidsameer" height="30" width="40" /></a>
-</p>
+- **Languages:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="30"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Web Development:**  
+  <details>
+    <summary>🌐 Web Technologies</summary>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="30"/>
+  </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justabid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="justabid" /></p>
+- **Software & Tools | Frameworks:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="30"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kali%20Linux-red"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justabid&show_icons=true&theme=dracula&locale=en" alt="justabid" /></p>
+- **Skills:** Penetration Testing, Ethical Hacking, Blockchain Security | Currently Working!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justabid&theme=dark" alt="justabid" /></p>
+---
+
+## 📜 Publications
+- Benchmarking AChecker: Smart Contract Security (Under Review) | Updating Soon!
+
+---
+
+<details>
+  <summary>⚙️ GitHub Statistics</summary>
+
+- 📊 **Stats:**  
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustAbid&show_icons=true&theme=dark)
+
+- 🔥 **Streaks:**  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustAbid&theme=dark)
+
+- 💹 **Languages:**  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAbid&layout=compact&theme=dark)
+
+</details>
+
+---
+
+<img src="https://raw.githubusercontent.com/JustAbid/JustAbid/output/snake.svg" alt="Snake animation"/>
