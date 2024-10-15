@@ -65,14 +65,19 @@
 <details>
   <summary>⚙️ GitHub Statistics</summary>
 
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="margin-right: 10px;">
+    
 - 📊 **Stats:**  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustAbid&show_icons=true&theme=dark)
+      <p><img src="https://github-readme-stats.vercel.app/api?username=JustAbid&show_icons=true&theme=dracula&locale=en" alt="justabid" style="height: 200px;" /></p>
+    </div>
+
+<div>
 
 - 🔥 **Streaks:**  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustAbid&theme=dark)
-
-- 💹 **Languages:**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAbid&layout=compact&theme=dark)
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=justabid&theme=dark" alt="JustAbid" style="height: 200px;" /></p>
+    </div>
+  </div>
 
 </details>
 
