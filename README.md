@@ -75,7 +75,7 @@
 <div>
 
 - 🔥 **Streaks:**  
-      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=justabid&theme=dark" alt="JustAbid" style="height: 200px;" /></p>
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustAbid&theme=dark" alt="JustAbid" style="height: 200px;" /></p>
     </div>
   </div>
 
