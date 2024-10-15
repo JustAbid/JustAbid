@@ -78,4 +78,3 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/JustAbid/JustAbid/snake.yml/snake.svg" alt="Snake animation"/>
