@@ -69,13 +69,13 @@
     <div style="margin-right: 10px;">
     
 - 📊 **Stats:**  
-      <p><img src="https://github-readme-stats.vercel.app/api?username=JustAbid&show_icons=true&theme=dracula&locale=en" alt="justabid" style="height: 200px;" /></p>
+      ![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAbid&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
     </div>
 
 <div>
 
 - 🔥 **Streaks:**  
-      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustAbid&theme=dark" alt="JustAbid" style="height: 200px;" /></p>
+      [![GitHub Streak](https://streak-stats.demolab.com?user=JustAbid&stroke=EAE3A0)](https://git.io/streak-stats)
     </div>
   </div>
 
