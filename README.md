@@ -65,20 +65,17 @@
 <details>
   <summary>⚙️ GitHub Statistics</summary>
 
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="margin-right: 10px;">
+
     
 - 📊 **Stats:**  
-      ![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAbid&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-    </div>
+      ![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=justabid&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+    
 
-<div>
+
 
 - 🔥 **Streaks:**  
-      [![GitHub Streak](https://streak-stats.demolab.com?user=JustAbid&stroke=EAE3A0)](https://git.io/streak-stats)
-    </div>
-  </div>
-
+      [![GitHub Streak](https://streak-stats.demolab.com?user=justabid&stroke=EAE3A0)](https://git.io/streak-stats)
+  
 </details>
 
 ---
