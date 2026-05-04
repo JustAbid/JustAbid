@@ -8,23 +8,20 @@
 - 🎮 Passionate about gaming and technology.
 - 🔍 Always eager to learn and find new solutions!
 
-<div align="center">
+<p align="center">
+  <a href="mailto:mdabid2104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/abidsameer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/darkwood962" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
 
-<a href="mailto:mdabid2104@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/abidsameer/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/darkwood962" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
-</a>
-
-</div>
 ---
 
 # 🛡️ My Arsenal 🛡️
