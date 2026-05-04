@@ -1,6 +1,7 @@
 <h1 align="center">👾 Welcome to My Cyber Vault! 👾</h1>
 
 ## 👾 About Me
+
 - 👤 Hi, I’m Mohammed Abid Ali Sameer!
 - 🎓 Bachelor's in IT | Osmania University, Hyderabad, India | Class of 2025
 - 🛡️ Exploring Cybersecurity | Aspiring SOC Analyst / Network Security Enthusiast
@@ -8,77 +9,96 @@
 - 🔍 Always eager to learn and find new solutions!
 
 <div align="center">
-  <a href="mailto:mdabid2104@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+
+<a href="mailto:mdabid2104@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/abidsameer/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/darkwood962" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
 </a>
 
-  <a href="https://www.linkedin.com/in/abidsameer/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
-</a>
-
- <a href="https://www.hackerrank.com/profile/darkwood962" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo" />
-</a>
 </div>
+---
+
+# 🛡️ My Arsenal 🛡️
+
+## 💻 Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" />
+</p>
 
 ---
 
-## 🛡️ My Arsenal 🛡️
-
-- **Languages:**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30" width="40" />
-</div>
-
-- **Web Development:**
+## 🌐 Web Development
 
 <details>
-  <summary>🌐 Web Technologies</summary>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="30" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="30" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="30" width="40" />
-  </div>
+  <summary><b>Web Technologies</b></summary>
+
+  <br>
+
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" />
+  </p>
+
 </details>
 
-- **SOC / Security Tools:**
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="30" width="40" />
-  <img src="https://img.shields.io/badge/SIEM-blue" height="30" />
-  <img src="https://img.shields.io/badge/Splunk-black?logo=splunk&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Networking-darkgreen" height="30" />
-  <img src="https://img.shields.io/badge/Incident%20Response-red" height="30" />
-  <img src="https://img.shields.io/badge/Threat%20Monitoring-purple" height="30" />
-</div>
+## 🛡️ SOC / Security Tools
 
-- **Software & Tools | Frameworks:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="30" width="40" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-red" height="30" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/SIEM-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incident_Response-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Monitoring-purple?style=for-the-badge" />
+</p>
+
+---
+
+## ⚙️ Software & Tools | Frameworks
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40" />
+</p>
+
+<p align="left">
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-red?style=for-the-badge" />
+</p>
 
 &nbsp;
 
@@ -86,16 +106,19 @@
 
 ---
 
-## 📜 Publications
+# 📜 Publications
+
 - Benchmarking AChecker: Smart Contract Security (Under Review) | Updating Soon!
 
 ---
 
 <details>
-  <summary>⚙️ GitHub Statistics</summary>
+  <summary><b>⚙️ GitHub Statistics</b></summary>
 
+  <br>
 
-- 🔥 **Streaks:**  
-      [![GitHub Streak](https://streak-stats.demolab.com?user=justabid&stroke=EAE3A0)](https://git.io/streak-stats)
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=justabid&stroke=EAE3A0" alt="GitHub Streak" />
+  </p>
 
 </details>
