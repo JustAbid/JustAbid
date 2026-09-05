@@ -111,7 +111,13 @@
 
 # 📜 Publications
 
-- Benchmarking AChecker: Smart Contract Security (Under Review) | Updating Soon!
+- **AI Frontiers, CRC Press (Taylor & Francis)** — *AI applications in enhancing patient care and diagnostic efficiency* — Book chapter — [Read here](https://books.google.de/books?hl=en&lr=&id=yOSEEQAAQBAJ&oi=fnd&pg=PA108&ots=QdHIThBsRt&sig=kc2_Lrak_5zmllTmlFePYG1gZEI&redir_esc=y#v=onepage&q&f=false)
+
+- **IJERT** — *Addressing Class Imbalance in Threat Detection Datasets: A Literature Review on Data Augmentation Techniques and Emerging Approaches* — Journal article — [Read here](https://www.ijert.org/addressing-class-imbalance-in-threat-detection-datasets--a-literature-review-on-data-augmentation-techniques-and-emerging-approaches)
+
+- **Blockchain in Healthcare Today (BHTY), Q3 journal** — *Lightweight Privacy-Preserving Blockchain Framework for Healthcare: A Simulation-Based Approach to Reducing Computational Overhead* — Journal article — [Read here](https://blockchainhealthcaretoday.com/index.php/journal/article/view/516/1076)
+
+- **Benchmarking AChecker: Smart Contract Security** — *Under Review* | Updating Soon!
 
 ---
 
