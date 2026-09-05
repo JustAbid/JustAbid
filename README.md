@@ -131,3 +131,50 @@
   </p>
 
 </details>
+
+---
+
+# 🗂️ Featured Projects
+
+## 🛡️ Cybersecurity & DevOps
+
+<p align="left">
+  <a href="https://github.com/JustAbid/AppliedITProject2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAbid&repo=AppliedITProject2&theme=radical" />
+  </a>
+  <a href="https://github.com/JustAbid/AppliedITProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAbid&repo=AppliedITProject&theme=radical" />
+  </a>
+</p>
+
+> End-to-end applied IT / DevOps work — Docker, Docker Compose, Linux servers, containers, PostgreSQL, and Python tooling.
+
+---
+
+## 🐍 Python Projects
+
+<p align="left">
+  <a href="https://github.com/JustAbid/Python-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAbid&repo=Python-Projects&theme=radical" />
+  </a>
+</p>
+
+> A growing series of Python projects, from beginner to advanced.
+
+---
+
+## 🌐 Frontend / UI Experiments
+
+<p align="left">
+  <a href="https://github.com/JustAbid/HEXAGON">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAbid&repo=HEXAGON&theme=radical" />
+  </a>
+  <a href="https://github.com/JustAbid/Animated-login-form-Dark-Theme-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAbid&repo=Animated-login-form-Dark-Theme-&theme=radical" />
+  </a>
+  <a href="https://github.com/JustAbid/Animated-NavBar_DarkTheme">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAbid&repo=Animated-NavBar_DarkTheme&theme=radical" />
+  </a>
+</p>
+
+> Dev tools/resources site and dark-themed animated UI experiments (login form, navbar).
