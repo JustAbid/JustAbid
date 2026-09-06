@@ -3,8 +3,8 @@
 ## 👾 About Me
 
 - 👤 Hi, I’m Mohammed Abid Ali Sameer!
-- 🎓 Bachelor's in IT | Osmania University, Hyderabad, India | Class of 2025
 - 🎓 Pursuing MS in IT - Cybersecurity | MDH University of Applied Sciences, Berlin, Germany | Graduating 2027
+- 🎓 Bachelor's in IT | Osmania University, Hyderabad, India | Class of 2025
 - 🛡️ Aspiring SOC Analyst / Network Security Enthusiast | Exploring Cybersecurity
 - 🔍 Always eager to learn and find new solutions!
 - 📬 Wanna connect? Mail me at: **mdabid2104@gmail.com**
