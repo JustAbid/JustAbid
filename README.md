@@ -139,6 +139,9 @@
 ## 🛡️ Cybersecurity & DevOps
 
 <p align="left">
+  <a href="https://github.com/JustAbid/phishing-url-detection-ml"><img src="assets/cards/phishing-detection.svg" width="380" alt="phishing-url-detection-ml" /></a>
+  <a href="https://github.com/JustAbid/siem-detection-engineering"><img src="assets/cards/siem-detection.svg" width="380" alt="siem-detection-engineering" /></a>
+  <a href="https://github.com/JustAbid/network_intrusion_detection_ctgan"><img src="assets/cards/nids-ctgan.svg" width="380" alt="network_intrusion_detection_ctgan" /></a>
   <a href="https://github.com/JustAbid/achecker-gui"><img src="assets/cards/achecker.svg" width="380" alt="achecker-gui" /></a>
   <a href="https://github.com/JustAbid/AppliedITProject2"><img src="assets/cards/appliedit2.svg" width="380" alt="AppliedITProject2" /></a>
   <a href="https://github.com/JustAbid/AppliedITProject"><img src="assets/cards/appliedit1.svg" width="380" alt="AppliedITProject" /></a>
