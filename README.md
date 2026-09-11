@@ -126,7 +126,9 @@
 
   <br>
 
-  [![GitHub Streak](https://justabid-readme-stats.vercel.app?user=JustAbid)](https://git.io/streak-stats)
+  <p align="center">
+    <img src="https://justabid-readme-stats.vercel.app?user=JustAbid&stroke=EAE3A0" alt="GitHub Streak" />
+  </p>
 
 </details>
 
