@@ -127,7 +127,7 @@
   <br>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=justabid&stroke=EAE3A0" alt="GitHub Streak" />
+    [![GitHub Streak](https://github-readme-streak-stats-omega-ochre.vercel.app?user=JustAbid)](https://git.io/streak-stats)
   </p>
 
 </details>
