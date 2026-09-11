@@ -126,9 +126,7 @@
 
   <br>
 
-  <p align="center">
-    [![GitHub Streak](https://github-readme-streak-stats-omega-ochre.vercel.app?user=JustAbid)](https://git.io/streak-stats)
-  </p>
+  [![GitHub Streak](https://justabid-readme-stats.vercel.app?user=JustAbid)](https://git.io/streak-stats)
 
 </details>
 
