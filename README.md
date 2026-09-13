@@ -136,7 +136,7 @@
 
 # 🗂️ Featured Projects
 
-## 🛡️ Cybersecurity & DevOps
+## 🛡️ Cybersecurity
 
 <p align="left">
   <a href="https://github.com/JustAbid/phishing-url-detection-ml"><img src="assets/cards/phishing-detection.svg" width="380" alt="phishing-url-detection-ml" /></a>
